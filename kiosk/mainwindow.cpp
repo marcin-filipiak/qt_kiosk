@@ -36,11 +36,8 @@ MainWindow::MainWindow(QWidget *parent) :
     view2->page()->setZoomFactor(1);
 
     if (navigator == 0){
-        //ui->horizontalLayout->s
+        //todo
     }
-
-    //ui->label->setText(QVariant(max_ticks).toString());
-
 }
 
 
@@ -85,9 +82,6 @@ void MainWindow::ticke(){
 
     //wpisanie pozycji kursora do pamieci
     this->position = x;
-
-
-
 }
 
 void MainWindow::on_toolBack_clicked()
