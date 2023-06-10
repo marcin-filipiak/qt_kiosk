@@ -1,6 +1,6 @@
 # qt_kiosk
 An application written in Qt based on the Qt WebEngine module.
-The application runs in full-screen mode on a touch-enabled device and features a minimal graphical interface: a "back" button icon and a "home" button that navigates back to the main page. It can automatically return to the home page upon detecting inactivity. Running the application requires Qt to be installed on the system.
+The application runs in full-screen mode on a touch-enabled device and features a minimal graphical interface: a "back" button icon and a "home" button that navigates back to the main page. It can automatically return to the home page upon detecting inactivity. Running the application requires Qt to be installed on the system. <b>You can find in repository ready "deb" package to install this application in Debian/Ubuntu.</b>
 
 <p align="center">
  <img src="kiosk.png">
